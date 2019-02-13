@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sntp.h": "c",
+        "wifi_mqtt_config.h": "c",
+        "gpio_config.h": "c",
+        "esp_system.h": "c"
+    }
+}
